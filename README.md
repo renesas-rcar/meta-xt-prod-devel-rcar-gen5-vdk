@@ -23,7 +23,7 @@ Dom0, driver domain DomD and DomU. It is based on following projects:
 
 This product is based on Synopsys VDK releases and Synopsys Virtualizer software.
 Currently it is expected that user has and will run it with Synopsys Virtualizer
-Runtime U-2023.03-SP2 and Synopsys VDK release 4.5.1 (with changes described in
+Runtime U-2023.03-SP2 and Synopsys VDK release 4.6.1 (with changes described in
 "VDK configuration" section of EPAM release notes).
 
 # How to build the product
@@ -71,7 +71,7 @@ pip3 install pycryptodomex west protobuf grpcio-tools
 
 ## Building
 
-This project is located inside [dedicated GitHub repository](https://github.com/xen-troops/meta-xt-prod-devel-rcar-gen5-vdk)
+This project is located inside [dedicated GitHub repository](https://github.com/renesas-rcar/meta-xt-prod-devel-rcar-gen5-vdk)
 , which contains release tags. To be able to build, please clone it to separate directory.
 
 Pay attention!
