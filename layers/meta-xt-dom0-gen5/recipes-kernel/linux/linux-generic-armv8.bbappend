@@ -1,7 +1,7 @@
 FILESEXTRAPATHS:prepend := "${THISDIR}/${PN}:"
 
-BRANCH = "v6.1.102/rcar-5.2.0.rc11_vpf.rc20"
-SRCREV = "45f7f75346bb60ea9838eb0e0a33f178adb62369"
+BRANCH = "v6.1.102/rcar-5.2.0.rc11_vpf.rc21"
+SRCREV = "82a71fc7f297c902604c8b35d6ebe4bf02f2f60b"
 LINUX_VERSION = "6.1.102"
 
 SRC_URI = "\
